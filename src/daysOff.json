@@ -1,0 +1,50 @@
+{
+  "root": {
+    "colleagues": [
+      {
+        "_id": 1,
+        "_name": "John Smith",
+        "events": {
+          "startDay": "",
+          "endDay": "",
+          "startTime": "",
+          "endTime": "",
+          "type": ""
+        }
+      },
+      {
+        "_id": 2,
+        "_name": "Harry Potter",
+        "events": {
+          "startDay": "",
+          "endDay": "",
+          "startTime": "",
+          "endTime": "",
+          "type": ""
+        }
+      },
+      {
+        "_id": 3,
+        "_name": "Margaret Arsenal",
+        "events": {
+          "startDay": "",
+          "endDay": "",
+          "startTime": "",
+          "endTime": "",
+          "type": ""
+        }
+      },
+      {
+        "_id": 4,
+        "_name": "Merry Eastwood",
+        "events": {
+          "startDay": "",
+          "endDay": "",
+          "startTime": "",
+          "endTime": "",
+          "type": ""
+        }
+      }
+    ]
+  }
+}
